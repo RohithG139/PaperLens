@@ -188,8 +188,7 @@ PaperLens/
 4. **Connect** → **Drivers** → copy the connection string.
    - Replace `<password>` with your database user's password.
    - Append the database name: `...mongodb.net/paperlens`
-   - Example: `mongodb+srv://rohith:mypassword@cluster0.n6f6q.mongodb.net/paperlens`
-
+   
 ---
 
 ## Step 2 — Pinecone Setup
